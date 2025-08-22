@@ -31,7 +31,7 @@ src/
 
 ### ✅ Prerequisites
 
-- Java 8+
+- Java 17+
 - Maven
 
 ### ▶️ Run Locally
